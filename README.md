@@ -193,11 +193,11 @@ Injects synthetic CPU/memory spikes and measures detection accuracy.
 
 ## 🌐 Live Dashboard
 
-👉 **[https://cloud-monitoring-system-cvhle9japxqjc2hcdzlvii.streamlit.app/](https://cloud-monitoring-system-cvhle9japxqjc2hcdzlvii.streamlit.app/)**
+👉 
 
 ---
 
 ## 👤 Author
 
 **Shipra Sabarawat**  
-Project submitted via [Qollabb](https://qollabb.com) — Industry Project Platform
+Project submitted via [Qollabb](https://qollabb.com) 
