@@ -1,0 +1,33 @@
+============================================================
+CLOUD MONITORING SYSTEM — ANOMALY ALERTS
+============================================================
+[WARNING] 2024-01-01 02:35:00 | CPU: 54.8% | MEM: 38.4% | Detected by: Isolation Forest
+[CRITICAL] 2024-01-01 04:10:00 | CPU: 90.7% | MEM: 86.5% | Detected by: Isolation Forest, LSTM
+[WARNING] 2024-01-01 05:05:00 | CPU: 38.5% | MEM: 75.8% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 06:10:00 | CPU: 19.0% | MEM: 63.3% | Detected by: LSTM
+[WARNING] 2024-01-01 08:05:00 | CPU: 42.1% | MEM: 45.2% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 08:25:00 | CPU: 36.6% | MEM: 45.8% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 08:50:00 | CPU: 55.1% | MEM: 47.3% | Detected by: LSTM
+[WARNING] 2024-01-01 09:25:00 | CPU: 59.7% | MEM: 43.8% | Detected by: LSTM
+[CRITICAL] 2024-01-01 12:30:00 | CPU: 89.0% | MEM: 100.0% | Detected by: Isolation Forest, LSTM
+[WARNING] 2024-01-01 12:50:00 | CPU: 42.3% | MEM: 80.7% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 13:20:00 | CPU: 32.2% | MEM: 49.3% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 17:25:00 | CPU: 70.8% | MEM: 72.0% | Detected by: Isolation Forest, LSTM
+[WARNING] 2024-01-01 19:25:00 | CPU: 34.8% | MEM: 38.0% | Detected by: Isolation Forest
+[CRITICAL] 2024-01-01 20:50:00 | CPU: 86.1% | MEM: 85.2% | Detected by: Isolation Forest, LSTM
+[WARNING] 2024-01-01 21:00:00 | CPU: 57.0% | MEM: 45.2% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 21:15:00 | CPU: 36.1% | MEM: 81.3% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 21:50:00 | CPU: 14.1% | MEM: 80.6% | Detected by: Isolation Forest
+[WARNING] 2024-01-01 23:45:00 | CPU: 24.4% | MEM: 65.8% | Detected by: Isolation Forest
+[WARNING] 2024-01-02 00:05:00 | CPU: 35.0% | MEM: 38.4% | Detected by: Isolation Forest
+[WARNING] 2024-01-02 04:50:00 | CPU: 28.4% | MEM: 57.9% | Detected by: Isolation Forest
+[CRITICAL] 2024-01-02 05:10:00 | CPU: 83.9% | MEM: 88.3% | Detected by: Isolation Forest, LSTM
+[WARNING] 2024-01-02 07:50:00 | CPU: 23.0% | MEM: 50.1% | Detected by: Isolation Forest
+[WARNING] 2024-01-02 11:30:00 | CPU: 32.3% | MEM: 49.4% | Detected by: Isolation Forest
+[CRITICAL] 2024-01-02 13:30:00 | CPU: 90.0% | MEM: 85.6% | Detected by: Isolation Forest, LSTM
+[WARNING] 2024-01-02 14:05:00 | CPU: 31.7% | MEM: 59.6% | Detected by: Isolation Forest
+[WARNING] 2024-01-02 15:15:00 | CPU: 21.6% | MEM: 48.2% | Detected by: Isolation Forest
+[WARNING] 2024-01-02 15:50:00 | CPU: 64.6% | MEM: 39.2% | Detected by: Isolation Forest
+[WARNING] 2024-01-02 16:55:00 | CPU: 51.8% | MEM: 34.6% | Detected by: Isolation Forest
+============================================================
+Total anomalies: 28

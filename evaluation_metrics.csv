@@ -1,0 +1,3 @@
+Model,Precision,Recall,F1-Score,Anomaly_Count,False_Positive_Rate
+Isolation Forest,1.0,0.893,0.943,25,0.0
+LSTM,1.0,0.321,0.486,9,0.0
