@@ -154,7 +154,7 @@ python simulate_spikes.py
 
 ## 👤 Author
 
-**Shipra Sabarawat**  
+**Shipra**  
 Project submitted via [Qollabb](https://qollabb.com) 
 
 ---
